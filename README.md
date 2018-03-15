@@ -17,8 +17,7 @@ From an HTTP / HTTPS link, you will know:
    The number of tweets with the previously defined link
    The number of likes given by different users of the Twitter network
    The number of retweets
- 
-  -------------------------------------------------- -----------------------------
+   
  # Installation
  
     Unzip the file to the desired directory
@@ -47,7 +46,6 @@ A partir d'un lien HTTP / HTTPS, vous pourrez ainsi savoir :
    Le nombre de likes donné par différents utilisateurs du réseau Twitter
    Le nombre de retweets
  
-  -------------------------------------------------------------------------------
  # Installation
  
     Décompressez le fichier dans le répertoire souhaité
