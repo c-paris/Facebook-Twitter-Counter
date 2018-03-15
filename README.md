@@ -1,10 +1,10 @@
 # Facebook-Twitter-Counter
 A simple Facebook | Twitter counter, working with both API's
-----------------
+
 #   English
 ----------------
 
-----------------
+
 #   Français
 ----------------
 
@@ -13,15 +13,15 @@ Il s'agit d'un compteur Facebook et Twitter.
 A partir d'un lien HTTP / HTTPS, vous pourrez ainsi savoir :
 
 # Pour facebook
-    Le nombre de posts possédant le lien défini préalablement
-    Le nombre de likes total
-    Le nombre de partages
-    Le nombre de commentaires
+   Le nombre de posts possédant le lien défini préalablement
+   Le nombre de likes total
+   Le nombre de partages
+   Le nombre de commentaires
  
  # Pour Twitter
-    Le nombre de tweets possédant le lien défini préalablement
-    Le nombre de likes donné par différents utilisateurs du réseau Twitter
-    Le nombre de retweets
+   Le nombre de tweets possédant le lien défini préalablement
+   Le nombre de likes donné par différents utilisateurs du réseau Twitter
+   Le nombre de retweets
  
   -------------------------------------------------------------------------------
  # INSTALLATION
